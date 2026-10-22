@@ -6,3 +6,4 @@ model.fit(hours, marks)
 predicted_marks = model.predict([[6]])
 print("Hours studied:", 6)
 print("Predicted marks:", predicted_marks[0])
+
